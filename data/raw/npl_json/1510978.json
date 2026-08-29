@@ -1,0 +1,3076 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2025-11-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kirtipur",
+    "dates": [
+      "2025-11-18"
+    ],
+    "event": {
+      "name": "Nepal Premier League",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "Mohammed Shafique"
+      ],
+      "reserve_umpires": [
+        "Kamalesh Thakur"
+      ],
+      "tv_umpires": [
+        "DN Subedi"
+      ],
+      "umpires": [
+        "RMPJ Rambukwella",
+        "VK Jha"
+      ]
+    },
+    "outcome": {
+      "winner": "Chitwan Rhinos",
+      "by": {
+        "wickets": 4
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "RS Bopara"
+    ],
+    "players": {
+      "Karnali Yaks": [
+        "Priyank Panchal",
+        "MP O'Dowd",
+        "MRJ Watt",
+        "P Sarraf",
+        "Najibullah Zadran",
+        "A Gharti",
+        "Gulsan Jha",
+        "Sompal Kami",
+        "Y Khatri",
+        "UB Singh",
+        "NK Yadav"
+      ],
+      "Chitwan Rhinos": [
+        "Deepak Bohara",
+        "DJ Malan",
+        "D Khanal",
+        "RS Bopara",
+        "Kushal Malla",
+        "SA Zaib",
+        "A Saud",
+        "Sohail Tanvir",
+        "R Dhakal",
+        "KS Airee",
+        "B Acharya"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gharti": "0b62d391",
+        "A Saud": "94b8d7dd",
+        "B Acharya": "f5faec97",
+        "D Khanal": "c4bc3b59",
+        "DJ Malan": "ad9c32a2",
+        "DN Subedi": "fb0a571f",
+        "Deepak Bohara": "9b1276f1",
+        "Gulsan Jha": "9811e35e",
+        "KS Airee": "548d4188",
+        "Kamalesh Thakur": "6926399e",
+        "Kushal Malla": "7e9f1cde",
+        "MP O'Dowd": "b699df47",
+        "MRJ Watt": "1252f71a",
+        "Mohammed Shafique": "a9ca87b8",
+        "NK Yadav": "737e595d",
+        "Najibullah Zadran": "1212cbec",
+        "P Sarraf": "82294960",
+        "Priyank Panchal": "ebf25cf2",
+        "R Dhakal": "8399a7af",
+        "RMPJ Rambukwella": "13fa6ffc",
+        "RS Bopara": "7ca5e05d",
+        "SA Zaib": "ab01e323",
+        "Sohail Tanvir": "64d43928",
+        "Sompal Kami": "1adb8ee8",
+        "UB Singh": "92493bc9",
+        "VK Jha": "5d46eb72",
+        "Y Khatri": "0d705d2d"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "club",
+    "teams": [
+      "Karnali Yaks",
+      "Chitwan Rhinos"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Chitwan Rhinos"
+    },
+    "venue": "Tribhuvan University International Cricket Ground, Kirtipur"
+  },
+  "innings": [
+    {
+      "team": "Karnali Yaks",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Priyank Panchal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Priyank Panchal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Priyank Panchal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Priyank Panchal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Priyank Panchal",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "MP O'Dowd",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "MP O'Dowd",
+              "bowler": "R Dhakal",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "MP O'Dowd",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "MP O'Dowd",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "MP O'Dowd",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "MP O'Dowd",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "MP O'Dowd",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "MP O'Dowd",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "MP O'Dowd",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "MP O'Dowd",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "MP O'Dowd",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "MP O'Dowd",
+              "bowler": "Kushal Malla",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "MP O'Dowd",
+              "bowler": "Kushal Malla",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "MP O'Dowd",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "MP O'Dowd",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "MP O'Dowd",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "MP O'Dowd",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Priyank Panchal",
+              "bowler": "SA Zaib",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "MP O'Dowd",
+              "bowler": "Kushal Malla",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "MP O'Dowd",
+              "bowler": "Kushal Malla",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "MP O'Dowd",
+              "bowler": "Kushal Malla",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "MP O'Dowd",
+              "bowler": "Kushal Malla",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Priyank Panchal",
+              "bowler": "SA Zaib",
+              "non_striker": "MP O'Dowd",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "MP O'Dowd",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MP O'Dowd",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "MRJ Watt",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "MRJ Watt",
+              "bowler": "Kushal Malla",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Priyank Panchal",
+              "bowler": "Kushal Malla",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Priyank Panchal",
+              "bowler": "SA Zaib",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Priyank Panchal",
+              "bowler": "SA Zaib",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Priyank Panchal",
+              "bowler": "SA Zaib",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "MRJ Watt",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "MRJ Watt",
+              "bowler": "SA Zaib",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "MRJ Watt",
+              "bowler": "SA Zaib",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "MRJ Watt",
+              "bowler": "RS Bopara",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "MRJ Watt",
+              "bowler": "RS Bopara",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "MRJ Watt",
+              "bowler": "RS Bopara",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "MRJ Watt",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "MRJ Watt",
+              "bowler": "KS Airee",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Priyank Panchal",
+              "bowler": "KS Airee",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "MRJ Watt",
+              "bowler": "RS Bopara",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "MRJ Watt",
+              "bowler": "RS Bopara",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "MRJ Watt",
+              "bowler": "RS Bopara",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "MRJ Watt",
+              "bowler": "R Dhakal",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Priyank Panchal",
+              "bowler": "R Dhakal",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "MRJ Watt",
+              "bowler": "R Dhakal",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "MRJ Watt",
+              "bowler": "R Dhakal",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "MRJ Watt",
+              "bowler": "RS Bopara",
+              "non_striker": "Priyank Panchal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Priyank Panchal",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Priyank Panchal",
+                  "fielders": [
+                    {
+                      "name": "D Khanal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "P Sarraf",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "P Sarraf",
+              "bowler": "RS Bopara",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "MRJ Watt",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "MRJ Watt",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "P Sarraf",
+              "bowler": "Sohail Tanvir",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "P Sarraf",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "P Sarraf",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "P Sarraf",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "P Sarraf",
+              "bowler": "R Dhakal",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "MRJ Watt",
+              "bowler": "R Dhakal",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "P Sarraf",
+              "bowler": "R Dhakal",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "P Sarraf",
+              "bowler": "R Dhakal",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "P Sarraf",
+              "bowler": "R Dhakal",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "MRJ Watt",
+              "bowler": "R Dhakal",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "P Sarraf",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "MRJ Watt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "MRJ Watt",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MRJ Watt",
+                  "fielders": [
+                    {
+                      "name": "R Dhakal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Najibullah Zadran",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Najibullah Zadran",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "P Sarraf",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "P Sarraf",
+              "bowler": "Sohail Tanvir",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Najibullah Zadran",
+              "bowler": "KS Airee",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Najibullah Zadran",
+              "bowler": "KS Airee",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Najibullah Zadran",
+              "bowler": "KS Airee",
+              "non_striker": "P Sarraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "P Sarraf",
+              "bowler": "KS Airee",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "P Sarraf",
+              "bowler": "KS Airee",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "P Sarraf",
+              "bowler": "KS Airee",
+              "non_striker": "Najibullah Zadran",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Chitwan Rhinos",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "DJ Malan",
+              "bowler": "UB Singh",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "DJ Malan",
+              "bowler": "UB Singh",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "DJ Malan",
+              "bowler": "UB Singh",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "DJ Malan",
+              "bowler": "UB Singh",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Deepak Bohara",
+              "bowler": "UB Singh",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Deepak Bohara",
+              "bowler": "UB Singh",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DJ Malan",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "DJ Malan",
+              "bowler": "Sompal Kami",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Deepak Bohara",
+              "bowler": "Sompal Kami",
+              "non_striker": "DJ Malan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DJ Malan",
+              "bowler": "UB Singh",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DJ Malan",
+                  "fielders": [
+                    {
+                      "name": "MRJ Watt"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "D Khanal",
+              "bowler": "UB Singh",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Deepak Bohara",
+              "bowler": "UB Singh",
+              "non_striker": "D Khanal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Deepak Bohara",
+              "bowler": "UB Singh",
+              "non_striker": "D Khanal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "D Khanal",
+              "bowler": "UB Singh",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Deepak Bohara",
+              "bowler": "UB Singh",
+              "non_striker": "D Khanal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Khanal",
+                  "fielders": [
+                    {
+                      "name": "UB Singh"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Deepak Bohara",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Deepak Bohara",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Deepak Bohara",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Deepak Bohara",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "RS Bopara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Deepak Bohara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "RS Bopara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "RS Bopara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Deepak Bohara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "RS Bopara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Deepak Bohara",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Deepak Bohara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Deepak Bohara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "RS Bopara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Deepak Bohara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Deepak Bohara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "RS Bopara",
+              "bowler": "Gulsan Jha",
+              "non_striker": "Deepak Bohara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Deepak Bohara",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Deepak Bohara",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Deepak Bohara",
+                  "fielders": [
+                    {
+                      "name": "Sompal Kami"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Kushal Malla",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Kushal Malla",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "RS Bopara",
+              "bowler": "Y Khatri",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Kushal Malla",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Kushal Malla",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Kushal Malla",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Kushal Malla",
+              "bowler": "UB Singh",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Kushal Malla",
+              "bowler": "UB Singh",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "RS Bopara",
+              "bowler": "UB Singh",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Kushal Malla",
+              "bowler": "UB Singh",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "RS Bopara",
+              "bowler": "UB Singh",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Kushal Malla",
+              "bowler": "UB Singh",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Kushal Malla",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Kushal Malla",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Kushal Malla",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "RS Bopara",
+              "bowler": "Y Khatri",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Kushal Malla",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "RS Bopara",
+              "bowler": "Y Khatri",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "RS Bopara",
+              "bowler": "Sompal Kami",
+              "non_striker": "Kushal Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Kushal Malla",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Kushal Malla",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Kushal Malla",
+                  "fielders": [
+                    {
+                      "name": "Gulsan Jha"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "SA Zaib",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "RS Bopara",
+              "bowler": "Sompal Kami",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "SA Zaib",
+              "bowler": "Sompal Kami",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "SA Zaib",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "SA Zaib",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "SA Zaib",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "RS Bopara",
+              "bowler": "Y Khatri",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "SA Zaib",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "SA Zaib",
+              "bowler": "Y Khatri",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "SA Zaib",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "SA Zaib",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "SA Zaib",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "RS Bopara",
+              "bowler": "NK Yadav",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "SA Zaib",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "SA Zaib",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "SA Zaib",
+              "bowler": "NK Yadav",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "RS Bopara",
+              "bowler": "Sompal Kami",
+              "non_striker": "SA Zaib",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "SA Zaib",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "SA Zaib",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "SA Zaib",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Zaib",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "A Saud",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "A Saud",
+              "bowler": "Sompal Kami",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "A Saud",
+              "bowler": "MRJ Watt",
+              "non_striker": "RS Bopara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "RS Bopara",
+              "bowler": "MRJ Watt",
+              "non_striker": "A Saud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RS Bopara",
+                  "fielders": [
+                    {
+                      "name": "Priyank Panchal"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "A Saud",
+              "bowler": "NK Yadav",
+              "non_striker": "Sohail Tanvir",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 167
+      }
+    }
+  ]
+}

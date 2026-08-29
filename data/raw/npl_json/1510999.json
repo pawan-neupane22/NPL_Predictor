@@ -1,0 +1,3310 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2025-12-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kirtipur",
+    "dates": [
+      "2025-12-04"
+    ],
+    "event": {
+      "name": "Nepal Premier League",
+      "match_number": 23
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "officials": {
+      "match_referees": [
+        "M Nayyar"
+      ],
+      "reserve_umpires": [
+        "SK Sigdel"
+      ],
+      "tv_umpires": [
+        "VK Jha"
+      ],
+      "umpires": [
+        "BB Pradhan",
+        "RMPJ Rambukwella"
+      ]
+    },
+    "outcome": {
+      "winner": "Kathmandu Gorkhas",
+      "by": {
+        "runs": 13
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "B Sharki"
+    ],
+    "players": {
+      "Kathmandu Gorkhas": [
+        "BG Charlesworth",
+        "A Tripathi",
+        "Rashid Khan",
+        "Milind Kumar",
+        "JA Simpson",
+        "Mohammad Aadil Alam",
+        "B Sharki",
+        "Sunny Patel",
+        "Karan KC",
+        "Shahab Alam",
+        "Santosh Yadav"
+      ],
+      "Pokhara Avengers": [
+        "K Bhurtel",
+        "AM Rossington",
+        "JJ Roy",
+        "TR Das",
+        "D Lakshan",
+        "R Dhawan",
+        "K Thagunna",
+        "SK Chettri",
+        "Bipin Khatri",
+        "Aakash Chand",
+        "S Dhakal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Tripathi": "cbba9e4e",
+        "AM Rossington": "7bcde3fe",
+        "Aakash Chand": "279c51f0",
+        "B Sharki": "fbdc8309",
+        "BB Pradhan": "8603d942",
+        "BG Charlesworth": "ffdba4e2",
+        "Bipin Khatri": "6e21867e",
+        "D Lakshan": "0a2184d9",
+        "JA Simpson": "f05fe9b1",
+        "JJ Roy": "d1c36f5c",
+        "K Bhurtel": "e3386c8a",
+        "K Thagunna": "97d86e77",
+        "Karan KC": "f53b3e1d",
+        "M Nayyar": "b7bccddb",
+        "Milind Kumar": "b4296080",
+        "Mohammad Aadil Alam": "70ced7f2",
+        "R Dhawan": "26a85969",
+        "RMPJ Rambukwella": "13fa6ffc",
+        "Rashid Khan": "69cccff3",
+        "S Dhakal": "8955b928",
+        "SK Chettri": "f5138f72",
+        "SK Sigdel": "e34ab986",
+        "Santosh Yadav": "ef342bdb",
+        "Shahab Alam": "cdd9fa95",
+        "Sunny Patel": "db481029",
+        "TR Das": "40f1a776",
+        "VK Jha": "5d46eb72"
+      }
+    },
+    "season": "2025/26",
+    "team_type": "club",
+    "teams": [
+      "Kathmandu Gorkhas",
+      "Pokhara Avengers"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pokhara Avengers"
+    },
+    "venue": "Tribhuvan University International Cricket Ground, Kirtipur"
+  },
+  "innings": [
+    {
+      "team": "Kathmandu Gorkhas",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Tripathi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "A Tripathi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "A Tripathi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "A Tripathi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Tripathi",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Tripathi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Rashid Khan",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Rashid Khan",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Rashid Khan",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Rashid Khan",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Rashid Khan",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Rashid Khan",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Rashid Khan",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Rashid Khan",
+              "bowler": "R Dhawan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Rashid Khan",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Rashid Khan",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Rashid Khan",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "BG Charlesworth",
+              "bowler": "D Lakshan",
+              "non_striker": "Rashid Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Rashid Khan",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Rashid Khan",
+              "bowler": "D Lakshan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rashid Khan",
+                  "fielders": [
+                    {
+                      "name": "SK Chettri"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Milind Kumar",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Milind Kumar",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Milind Kumar",
+              "bowler": "Bipin Khatri",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Milind Kumar",
+              "bowler": "Bipin Khatri",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "BG Charlesworth",
+              "bowler": "Bipin Khatri",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Milind Kumar",
+              "bowler": "Bipin Khatri",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "BG Charlesworth",
+              "bowler": "Bipin Khatri",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "BG Charlesworth",
+              "bowler": "Bipin Khatri",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Milind Kumar",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Milind Kumar",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Milind Kumar",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Milind Kumar",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Milind Kumar",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Milind Kumar",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Milind Kumar",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "Milind Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Milind Kumar",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Milind Kumar",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Milind Kumar",
+                  "fielders": [
+                    {
+                      "name": "AM Rossington"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "JA Simpson",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "JA Simpson",
+              "bowler": "K Thagunna",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "JA Simpson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "JA Simpson",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "JA Simpson",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JA Simpson",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "Mohammad Aadil Alam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "Aakash Chand",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "Mohammad Aadil Alam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "Mohammad Aadil Alam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "Mohammad Aadil Alam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "Mohammad Aadil Alam",
+              "bowler": "K Thagunna",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mohammad Aadil Alam",
+                  "fielders": [
+                    {
+                      "name": "JJ Roy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "B Sharki",
+              "bowler": "K Thagunna",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "B Sharki",
+              "bowler": "K Thagunna",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "BG Charlesworth",
+              "bowler": "K Thagunna",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "B Sharki",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "BG Charlesworth",
+              "bowler": "K Bhurtel",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "B Sharki",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "B Sharki",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "B Sharki",
+              "bowler": "K Bhurtel",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "B Sharki",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "B Sharki",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "B Sharki",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "B Sharki",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "B Sharki",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "B Sharki",
+              "bowler": "Aakash Chand",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "BG Charlesworth",
+              "bowler": "Aakash Chand",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "B Sharki",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "B Sharki",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "B Sharki",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "B Sharki",
+              "bowler": "R Dhawan",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "BG Charlesworth",
+              "bowler": "R Dhawan",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "B Sharki",
+              "bowler": "Bipin Khatri",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "B Sharki",
+              "bowler": "Bipin Khatri",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "B Sharki",
+              "bowler": "Bipin Khatri",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "B Sharki",
+              "bowler": "Bipin Khatri",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "B Sharki",
+              "bowler": "Bipin Khatri",
+              "non_striker": "BG Charlesworth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "BG Charlesworth",
+              "bowler": "Bipin Khatri",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BG Charlesworth",
+                  "fielders": [
+                    {
+                      "name": "D Lakshan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Sunny Patel",
+              "bowler": "Bipin Khatri",
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "B Sharki",
+              "bowler": "D Lakshan",
+              "non_striker": "Sunny Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "B Sharki",
+              "bowler": "D Lakshan",
+              "non_striker": "Sunny Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Sunny Patel",
+              "bowler": "D Lakshan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B Sharki",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "B Sharki",
+              "bowler": "D Lakshan",
+              "non_striker": "Sunny Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Sharki",
+                  "fielders": [
+                    {
+                      "name": "JJ Roy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Karan KC",
+              "bowler": "D Lakshan",
+              "non_striker": "Sunny Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Karan KC",
+              "bowler": "D Lakshan",
+              "non_striker": "Sunny Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Karan KC",
+                  "fielders": [
+                    {
+                      "name": "TR Das"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pokhara Avengers",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "K Bhurtel",
+              "bowler": "Karan KC",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "K Bhurtel",
+              "bowler": "Karan KC",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "K Bhurtel",
+              "bowler": "Karan KC",
+              "non_striker": "AM Rossington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "AM Rossington",
+              "bowler": "Karan KC",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "AM Rossington",
+              "bowler": "Karan KC",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AM Rossington",
+              "bowler": "Karan KC",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "AM Rossington",
+              "bowler": "Karan KC",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "AM Rossington",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Rossington",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "K Bhurtel",
+              "bowler": "Sunny Patel",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "K Bhurtel",
+              "bowler": "Shahab Alam",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "K Bhurtel",
+              "bowler": "Shahab Alam",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "K Bhurtel",
+              "bowler": "Shahab Alam",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "K Bhurtel",
+              "bowler": "Shahab Alam",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "K Bhurtel",
+              "bowler": "Shahab Alam",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "K Bhurtel",
+              "bowler": "Shahab Alam",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "JJ Roy",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "K Bhurtel",
+              "bowler": "Sunny Patel",
+              "non_striker": "JJ Roy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "JJ Roy",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "JJ Roy",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "JJ Roy",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JJ Roy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "TR Das",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "TR Das",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "TR Das",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "TR Das",
+              "bowler": "Santosh Yadav",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "TR Das",
+              "bowler": "Santosh Yadav",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "TR Das",
+              "bowler": "Santosh Yadav",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "TR Das",
+              "bowler": "Santosh Yadav",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "TR Das",
+              "bowler": "Santosh Yadav",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "TR Das",
+              "bowler": "Santosh Yadav",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "K Bhurtel",
+              "bowler": "Sunny Patel",
+              "non_striker": "TR Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "K Bhurtel",
+              "bowler": "Sunny Patel",
+              "non_striker": "TR Das",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "K Bhurtel",
+              "bowler": "Sunny Patel",
+              "non_striker": "TR Das",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "K Bhurtel",
+              "bowler": "Sunny Patel",
+              "non_striker": "TR Das",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "TR Das",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TR Das",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "D Lakshan",
+              "bowler": "Sunny Patel",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "K Bhurtel",
+              "bowler": "Milind Kumar",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "K Bhurtel",
+              "bowler": "Milind Kumar",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "K Bhurtel",
+              "bowler": "Milind Kumar",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "K Bhurtel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Bhurtel",
+              "bowler": "Karan KC",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "K Bhurtel",
+              "bowler": "Karan KC",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Bhurtel",
+              "bowler": "Karan KC",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Bhurtel",
+                  "fielders": [
+                    {
+                      "name": "Milind Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "R Dhawan",
+              "bowler": "Karan KC",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "D Lakshan",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "R Dhawan",
+              "bowler": "Karan KC",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "R Dhawan",
+              "bowler": "Milind Kumar",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "D Lakshan",
+              "bowler": "Rashid Khan",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "D Lakshan",
+              "bowler": "Rashid Khan",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "R Dhawan",
+              "bowler": "Milind Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "R Dhawan",
+              "bowler": "Milind Kumar",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "R Dhawan",
+              "bowler": "Milind Kumar",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "D Lakshan",
+              "bowler": "Milind Kumar",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "D Lakshan",
+              "bowler": "Rashid Khan",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "D Lakshan",
+              "bowler": "Rashid Khan",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "D Lakshan",
+              "bowler": "Sunny Patel",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "R Dhawan",
+              "bowler": "Sunny Patel",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "D Lakshan",
+              "bowler": "Sunny Patel",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "D Lakshan",
+              "bowler": "Sunny Patel",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "D Lakshan",
+              "bowler": "Sunny Patel",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "R Dhawan",
+              "bowler": "Sunny Patel",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "D Lakshan",
+              "bowler": "Mohammad Aadil Alam",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "D Lakshan",
+              "bowler": "Mohammad Aadil Alam",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "R Dhawan",
+              "bowler": "Mohammad Aadil Alam",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "R Dhawan",
+              "bowler": "Mohammad Aadil Alam",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "D Lakshan",
+              "bowler": "Mohammad Aadil Alam",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "R Dhawan",
+              "bowler": "Mohammad Aadil Alam",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "D Lakshan",
+              "bowler": "Rashid Khan",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "R Dhawan",
+              "bowler": "Rashid Khan",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "R Dhawan",
+              "bowler": "Karan KC",
+              "non_striker": "D Lakshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "D Lakshan",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Lakshan",
+                  "fielders": [
+                    {
+                      "name": "Milind Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "K Thagunna",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "K Thagunna",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "K Thagunna",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "K Thagunna",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "R Dhawan",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Thagunna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "K Thagunna",
+              "bowler": "Shahab Alam",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "R Dhawan",
+              "bowler": "Shahab Alam",
+              "non_striker": "K Thagunna",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "K Thagunna",
+              "bowler": "Shahab Alam",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Thagunna",
+                  "fielders": [
+                    {
+                      "name": "Milind Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "SK Chettri",
+              "bowler": "Shahab Alam",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "R Dhawan",
+              "bowler": "Shahab Alam",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "SK Chettri",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "SK Chettri",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "SK Chettri",
+              "bowler": "Karan KC",
+              "non_striker": "R Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "R Dhawan",
+              "bowler": "Karan KC",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "R Dhawan",
+              "bowler": "Karan KC",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "R Dhawan",
+              "bowler": "Karan KC",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "R Dhawan",
+              "bowler": "Karan KC",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "R Dhawan",
+              "bowler": "Shahab Alam",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Dhawan",
+                  "fielders": [
+                    {
+                      "name": "Milind Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Bipin Khatri",
+              "bowler": "Shahab Alam",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Bipin Khatri",
+                  "fielders": [
+                    {
+                      "name": "JA Simpson"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Aakash Chand",
+              "bowler": "Shahab Alam",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aakash Chand",
+                  "fielders": [
+                    {
+                      "name": "Milind Kumar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "S Dhakal",
+              "bowler": "Shahab Alam",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "S Dhakal",
+              "bowler": "Shahab Alam",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "S Dhakal",
+              "bowler": "Shahab Alam",
+              "non_striker": "SK Chettri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Dhakal",
+                  "fielders": [
+                    {
+                      "name": "Karan KC"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 166
+      }
+    }
+  ]
+}
