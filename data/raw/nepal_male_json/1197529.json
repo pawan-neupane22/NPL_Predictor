@@ -1,0 +1,1943 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2019-10-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Al Amarat",
+    "dates": [
+      "2019-10-10"
+    ],
+    "event": {
+      "name": "Oman Pentangular T20I Series",
+      "match_number": 10
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "match_type_number": 928,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "WC Labrooy"
+      ],
+      "reserve_umpires": [
+        "Harikrishna Pillai"
+      ],
+      "umpires": [
+        "Rahul Asher",
+        "Vinod Babu"
+      ]
+    },
+    "outcome": {
+      "winner": "Oman",
+      "by": {
+        "wickets": 6
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Nepal": [
+        "I Pandey",
+        "P Khadka",
+        "Aarif Sheikh",
+        "DS Airee",
+        "B Bhandari",
+        "S Jora",
+        "Sompal Kami",
+        "Karan KC",
+        "S Lamichhane",
+        "S Bhari",
+        "A Bohara"
+      ],
+      "Oman": [
+        "Khawar Ali",
+        "Aqib Ilyas",
+        "Aamir Kaleem",
+        "Suraj Kumar",
+        "Naseem Khushi",
+        "Sandeep Goud",
+        "Mohammad Nadeem",
+        "Mehran Khan",
+        "Bilal Khan",
+        "Fayyaz Butt",
+        "Zeeshan Maqsood"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bohara": "64fb6b15",
+        "Aamir Kaleem": "7ecb9a14",
+        "Aarif Sheikh": "cd4d7695",
+        "Aqib Ilyas": "b3b39bed",
+        "B Bhandari": "82342b13",
+        "Bilal Khan": "dcdb87f2",
+        "DS Airee": "1747ea18",
+        "Fayyaz Butt": "bd9fbd51",
+        "Harikrishna Pillai": "ed918c90",
+        "I Pandey": "ed547c49",
+        "Karan KC": "f53b3e1d",
+        "Khawar Ali": "934b36a6",
+        "Mehran Khan": "d7bfcc0b",
+        "Mohammad Nadeem": "c5d7b244",
+        "Naseem Khushi": "c63671e9",
+        "P Khadka": "12c3ba4d",
+        "Rahul Asher": "4956b0bf",
+        "S Bhari": "28c7d721",
+        "S Jora": "156378d8",
+        "S Lamichhane": "b410bd3d",
+        "Sandeep Goud": "4e1c9f6e",
+        "Sompal Kami": "1adb8ee8",
+        "Suraj Kumar": "bb9d73d8",
+        "Vinod Babu": "37e6187d",
+        "WC Labrooy": "29d4e29b",
+        "Zeeshan Maqsood": "34464143"
+      }
+    },
+    "season": "2019/20",
+    "team_type": "international",
+    "teams": [
+      "Oman",
+      "Nepal"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Oman"
+    },
+    "venue": "Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)"
+  },
+  "innings": [
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "I Pandey",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "I Pandey",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "I Pandey",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "I Pandey",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "I Pandey",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Pandey",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "I Pandey",
+                  "fielders": [
+                    {
+                      "name": "Aqib Ilyas"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "P Khadka",
+              "bowler": "Fayyaz Butt",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Aarif Sheikh",
+              "bowler": "Fayyaz Butt",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Aarif Sheikh",
+              "bowler": "Fayyaz Butt",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Aarif Sheikh",
+              "bowler": "Fayyaz Butt",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Aarif Sheikh",
+              "bowler": "Fayyaz Butt",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Aarif Sheikh",
+              "bowler": "Fayyaz Butt",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Aarif Sheikh",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Aarif Sheikh",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Aarif Sheikh",
+              "bowler": "Bilal Khan",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "P Khadka",
+              "bowler": "Bilal Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "P Khadka",
+              "bowler": "Bilal Khan",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "P Khadka",
+              "bowler": "Bilal Khan",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "P Khadka",
+              "bowler": "Bilal Khan",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "P Khadka",
+                  "fielders": [
+                    {
+                      "name": "Suraj Kumar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "DS Airee",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "DS Airee",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "DS Airee",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "DS Airee",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "DS Airee",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "DS Airee",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "DS Airee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "B Bhandari",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "B Bhandari",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "B Bhandari",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "B Bhandari"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Jora",
+              "bowler": "Aamir Kaleem",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Jora",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Jora",
+                  "fielders": [
+                    {
+                      "name": "Mehran Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Sompal Kami",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Aarif Sheikh",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Aarif Sheikh",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Aarif Sheikh",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Sompal Kami",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Sompal Kami",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Aarif Sheikh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Aarif Sheikh",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Aarif Sheikh",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Aarif Sheikh",
+                  "fielders": [
+                    {
+                      "name": "Suraj Kumar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Sompal Kami",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Sompal Kami",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Karan KC",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Sompal Kami",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Sompal Kami",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Karan KC",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Karan KC",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Karan KC",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Karan KC",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Sompal Kami",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Karan KC",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Sompal Kami",
+              "bowler": "Mohammad Nadeem",
+              "non_striker": "Karan KC",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Karan KC",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Karan KC",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Karan KC"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "S Lamichhane",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "S Lamichhane",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "Sompal Kami",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Sompal Kami",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Lamichhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Sompal Kami",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Lamichhane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Sompal Kami",
+              "bowler": "Khawar Ali",
+              "non_striker": "S Lamichhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Sompal Kami",
+              "bowler": "Khawar Ali",
+              "non_striker": "S Lamichhane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Sompal Kami",
+              "bowler": "Khawar Ali",
+              "non_striker": "S Lamichhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sompal Kami",
+                  "fielders": [
+                    {
+                      "name": "Fayyaz Butt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "S Lamichhane",
+              "bowler": "Khawar Ali",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "S Lamichhane",
+              "bowler": "Khawar Ali",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "S Bhari",
+              "bowler": "Khawar Ali",
+              "non_striker": "S Lamichhane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "S Lamichhane",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Lamichhane",
+                  "fielders": [
+                    {
+                      "name": "Khawar Ali"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "A Bohara",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "A Bohara",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "A Bohara",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Bohara",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Bohara",
+              "bowler": "Aamir Kaleem",
+              "non_striker": "S Bhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "A Bohara"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Oman",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Khawar Ali",
+              "bowler": "S Lamichhane",
+              "non_striker": "Aqib Ilyas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "Aqib Ilyas",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Aqib Ilyas",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Aqib Ilyas",
+                  "fielders": [
+                    {
+                      "name": "Sompal Kami"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Aamir Kaleem",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Aamir Kaleem",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Aamir Kaleem",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Aamir Kaleem",
+              "bowler": "Karan KC",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Khawar Ali",
+              "bowler": "S Lamichhane",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Khawar Ali",
+              "bowler": "S Lamichhane",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Aamir Kaleem",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Aamir Kaleem",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Aamir Kaleem",
+              "bowler": "S Lamichhane",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Khawar Ali",
+              "bowler": "S Lamichhane",
+              "non_striker": "Aamir Kaleem",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Aamir Kaleem",
+              "bowler": "Karan KC",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Aamir Kaleem",
+              "bowler": "Karan KC",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Aamir Kaleem",
+              "bowler": "Karan KC",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Aamir Kaleem",
+                  "fielders": [
+                    {
+                      "name": "DS Airee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "Suraj Kumar",
+              "bowler": "Karan KC",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "Khawar Ali",
+              "bowler": "Karan KC",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Khawar Ali",
+              "bowler": "S Bhari",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Khawar Ali",
+              "bowler": "S Bhari",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Khawar Ali",
+              "bowler": "S Bhari",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Suraj Kumar",
+              "bowler": "Sompal Kami",
+              "non_striker": "Khawar Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Khawar Ali",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Khawar Ali",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Khawar Ali",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Khawar Ali",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Khawar Ali",
+                  "fielders": [
+                    {
+                      "name": "Karan KC"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Naseem Khushi",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Naseem Khushi",
+              "bowler": "Karan KC",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Naseem Khushi",
+              "bowler": "Karan KC",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Naseem Khushi",
+              "bowler": "Karan KC",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Naseem Khushi",
+                  "fielders": [
+                    {
+                      "name": "S Jora"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Suraj Kumar",
+              "bowler": "Karan KC",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Suraj Kumar",
+              "bowler": "Karan KC",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "Sandeep Goud",
+              "bowler": "Karan KC",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Suraj Kumar",
+              "bowler": "Sompal Kami",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Sandeep Goud",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Sandeep Goud",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "Suraj Kumar",
+              "bowler": "Sompal Kami",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "Suraj Kumar",
+              "bowler": "Sompal Kami",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Sandeep Goud",
+              "bowler": "Sompal Kami",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Suraj Kumar",
+              "bowler": "S Bhari",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Sandeep Goud",
+              "bowler": "S Lamichhane",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Sandeep Goud",
+              "bowler": "S Lamichhane",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Suraj Kumar",
+              "bowler": "S Lamichhane",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "Suraj Kumar",
+              "bowler": "Karan KC",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "Suraj Kumar",
+              "bowler": "Karan KC",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Suraj Kumar",
+              "bowler": "Karan KC",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Sandeep Goud",
+              "bowler": "Karan KC",
+              "non_striker": "Suraj Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Suraj Kumar",
+              "bowler": "Karan KC",
+              "non_striker": "Sandeep Goud",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 65
+      }
+    }
+  ]
+}

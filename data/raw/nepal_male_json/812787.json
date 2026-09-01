@@ -1,0 +1,5515 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2015-01-27",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Windhoek",
+    "dates": [
+      "2015-01-20"
+    ],
+    "event": {
+      "name": "ICC World Cricket League Division Two"
+    },
+    "gender": "male",
+    "match_type": "ODM",
+    "missing": [
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "D Govindjee"
+      ],
+      "reserve_umpires": [
+        "AK Chaudhary"
+      ],
+      "umpires": [
+        "M Hawthorne",
+        "RT Robinson"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 7
+      },
+      "winner": "Nepal"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "P Khadka"
+    ],
+    "players": {
+      "Canada": [
+        "Rizwan Cheema",
+        "NR Kumar",
+        "R Gunasekera",
+        "SA Wijeratne",
+        "AS Hansra",
+        "NS Dhaliwal",
+        "Hamza Tariq",
+        "N Dutta",
+        "SS Dhindsa",
+        "PA Desai",
+        "C Pervez"
+      ],
+      "Nepal": [
+        "SP Khakurel",
+        "NB Budayair",
+        "G Malla",
+        "P Khadka",
+        "B Bhandari",
+        "Sagar Pun",
+        "S Vesawkar",
+        "B Regmi",
+        "Sompal Kami",
+        "SP Gauchan",
+        "Karan KC"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AK Chaudhary": "fdcc6236",
+        "AS Hansra": "795df06c",
+        "B Bhandari": "82342b13",
+        "B Regmi": "98d05440",
+        "C Pervez": "7bf34437",
+        "D Govindjee": "8b4c4069",
+        "G Malla": "b2e1d224",
+        "Hamza Tariq": "82e81007",
+        "Karan KC": "f53b3e1d",
+        "M Hawthorne": "ea123ee4",
+        "N Dutta": "e258a603",
+        "NB Budayair": "9d280648",
+        "NR Kumar": "b3bad3f2",
+        "NS Dhaliwal": "cbabd6ad",
+        "P Khadka": "12c3ba4d",
+        "PA Desai": "fccf5309",
+        "R Gunasekera": "9b6ad88a",
+        "RT Robinson": "b143c87d",
+        "Rizwan Cheema": "3a026eb4",
+        "S Vesawkar": "3de06845",
+        "SA Wijeratne": "5fbd0632",
+        "SP Gauchan": "2d8aae2f",
+        "SP Khakurel": "9a6b71d1",
+        "SS Dhindsa": "ed97af2b",
+        "Sagar Pun": "3c4007d3",
+        "Sompal Kami": "1adb8ee8"
+      }
+    },
+    "season": "2014/15",
+    "team_type": "international",
+    "teams": [
+      "Canada",
+      "Nepal"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Canada"
+    },
+    "venue": "Wanderers Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Canada",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Rizwan Cheema",
+              "bowler": "Sompal Kami",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "NR Kumar",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "NR Kumar",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "NR Kumar",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NR Kumar",
+                  "fielders": [
+                    {
+                      "name": "SP Khakurel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Rizwan Cheema",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Rizwan Cheema",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Rizwan Cheema",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Rizwan Cheema",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Rizwan Cheema",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Rizwan Cheema",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "R Gunasekera",
+              "bowler": "Karan KC",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "R Gunasekera",
+              "bowler": "Karan KC",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "R Gunasekera",
+              "bowler": "Karan KC",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Rizwan Cheema",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "Rizwan Cheema"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "SA Wijeratne",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SA Wijeratne",
+                  "fielders": [
+                    {
+                      "name": "Sagar Pun"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "R Gunasekera",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "R Gunasekera",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "R Gunasekera",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "R Gunasekera",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "R Gunasekera",
+                  "fielders": [
+                    {
+                      "name": "SP Khakurel"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "NS Dhaliwal",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "NS Dhaliwal",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "NS Dhaliwal",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "NS Dhaliwal",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "NS Dhaliwal",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "AS Hansra",
+              "bowler": "Sompal Kami",
+              "non_striker": "NS Dhaliwal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "NS Dhaliwal",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "NS Dhaliwal",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "NS Dhaliwal",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "NS Dhaliwal",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "NS Dhaliwal"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Hamza Tariq",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Hamza Tariq",
+              "bowler": "Karan KC",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Hamza Tariq",
+              "bowler": "Karan KC",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "AS Hansra",
+              "bowler": "Karan KC",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "Hamza Tariq",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "Hamza Tariq",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Hamza Tariq",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "Hamza Tariq",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Hamza Tariq",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Hamza Tariq",
+              "bowler": "Sompal Kami",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "Hamza Tariq",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "Hamza Tariq",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Hamza Tariq",
+                  "fielders": [
+                    {
+                      "name": "B Bhandari"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "AS Hansra",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "AS Hansra",
+              "bowler": "P Khadka",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "N Dutta",
+              "bowler": "P Khadka",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "AS Hansra",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "AS Hansra",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "AS Hansra",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "AS Hansra",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "AS Hansra",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "AS Hansra",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "AS Hansra",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "AS Hansra",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AS Hansra",
+                  "fielders": [
+                    {
+                      "name": "B Bhandari"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "SS Dhindsa",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "SS Dhindsa",
+              "bowler": "Sagar Pun",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "N Dutta",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "SS Dhindsa",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "SS Dhindsa",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "SS Dhindsa",
+              "bowler": "SP Gauchan",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "actual_delivery": "37.1",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.2",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.5",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "actual_delivery": "38.1",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.2",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.3",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.4",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.5",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.6",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "actual_delivery": "39.1",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.2",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "39.3",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.4",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.6",
+              "batter": "N Dutta",
+              "bowler": "Sagar Pun",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "actual_delivery": "40.1",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "40.2",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.3",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.4",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.5",
+              "batter": "N Dutta",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "40.6",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "actual_delivery": "41.1",
+              "batter": "N Dutta",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "41.2",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.3",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.4",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.5",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.6",
+              "batter": "N Dutta",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "actual_delivery": "42.1",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.2",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.3",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "42.4",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.5",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "42.6",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "N Dutta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "actual_delivery": "43.1",
+              "batter": "N Dutta",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.2",
+              "batter": "N Dutta",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "N Dutta",
+                  "fielders": [
+                    {
+                      "name": "G Malla"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "43.3",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.4",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.5",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.6",
+              "batter": "PA Desai",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "actual_delivery": "44.1",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.2",
+              "batter": "PA Desai",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.3",
+              "batter": "PA Desai",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.4",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.5",
+              "batter": "PA Desai",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.6",
+              "batter": "PA Desai",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "actual_delivery": "45.1",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.2",
+              "batter": "PA Desai",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "45.3",
+              "batter": "PA Desai",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.4",
+              "batter": "SS Dhindsa",
+              "bowler": "Karan KC",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.5",
+              "batter": "PA Desai",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "45.6",
+              "batter": "PA Desai",
+              "bowler": "Karan KC",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "actual_delivery": "46.1",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "46.2",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.3",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.4",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.5",
+              "batter": "PA Desai",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "46.6",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "actual_delivery": "47.1",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.2",
+              "batter": "PA Desai",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.3",
+              "batter": "PA Desai",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.4",
+              "batter": "PA Desai",
+              "bowler": "B Regmi",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.5",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "47.6",
+              "batter": "SS Dhindsa",
+              "bowler": "B Regmi",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "actual_delivery": "48.1",
+              "batter": "PA Desai",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "48.2",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "48.3",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "48.4",
+              "batter": "SS Dhindsa",
+              "bowler": "Sompal Kami",
+              "non_striker": "PA Desai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "48.5",
+              "batter": "PA Desai",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "PA Desai"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "48.6",
+              "batter": "C Pervez",
+              "bowler": "Sompal Kami",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "actual_delivery": "49.1",
+              "batter": "C Pervez",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "49.2",
+              "batter": "C Pervez",
+              "bowler": "SP Gauchan",
+              "non_striker": "SS Dhindsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "C Pervez"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Nepal",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "SP Khakurel",
+              "bowler": "C Pervez",
+              "non_striker": "NB Budayair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "SP Khakurel",
+              "bowler": "C Pervez",
+              "non_striker": "NB Budayair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "SP Khakurel",
+              "bowler": "C Pervez",
+              "non_striker": "NB Budayair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "SP Khakurel",
+              "bowler": "C Pervez",
+              "non_striker": "NB Budayair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "SP Khakurel",
+              "bowler": "C Pervez",
+              "non_striker": "NB Budayair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "SP Khakurel",
+              "bowler": "C Pervez",
+              "non_striker": "NB Budayair",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "NB Budayair",
+              "bowler": "SS Dhindsa",
+              "non_striker": "SP Khakurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "NB Budayair",
+              "bowler": "SS Dhindsa",
+              "non_striker": "SP Khakurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "NB Budayair",
+              "bowler": "SS Dhindsa",
+              "non_striker": "SP Khakurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NB Budayair",
+                  "fielders": [
+                    {
+                      "name": "SA Wijeratne"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "SP Khakurel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "SP Khakurel",
+                  "fielders": [
+                    {
+                      "name": "Hamza Tariq"
+                    },
+                    {
+                      "name": "SS Dhindsa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "G Malla",
+              "bowler": "PA Desai",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "G Malla",
+              "bowler": "PA Desai",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "G Malla",
+              "bowler": "C Pervez",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "P Khadka",
+              "bowler": "PA Desai",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "G Malla",
+              "bowler": "PA Desai",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "G Malla",
+              "bowler": "PA Desai",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "G Malla",
+              "bowler": "PA Desai",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "G Malla",
+              "bowler": "PA Desai",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "G Malla",
+              "bowler": "PA Desai",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "G Malla",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "G Malla",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "G Malla",
+              "bowler": "Rizwan Cheema",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "G Malla",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "G Malla",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "G Malla",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "G Malla",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "G Malla",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "G Malla",
+              "bowler": "N Dutta",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "G Malla",
+              "bowler": "N Dutta",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "G Malla",
+              "bowler": "N Dutta",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "G Malla",
+              "bowler": "NS Dhaliwal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.1",
+              "batter": "G Malla",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "G Malla",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "P Khadka",
+              "bowler": "NS Dhaliwal",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "G Malla",
+              "bowler": "N Dutta",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "G Malla",
+              "bowler": "N Dutta",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "G Malla",
+              "bowler": "N Dutta",
+              "non_striker": "P Khadka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "P Khadka",
+              "bowler": "N Dutta",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "P Khadka",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "P Khadka",
+              "bowler": "SS Dhindsa",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "P Khadka",
+                  "fielders": [
+                    {
+                      "name": "NR Kumar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "G Malla",
+              "bowler": "SS Dhindsa",
+              "non_striker": "B Bhandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "B Bhandari",
+              "bowler": "C Pervez",
+              "non_striker": "G Malla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 115
+      }
+    }
+  ]
+}
